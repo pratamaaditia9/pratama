@@ -1,4 +1,5 @@
 body{
+
     background-color: #fafafa;
     margin: 0;
     padding: 0;
@@ -11,4 +12,15 @@ footer{
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+header{
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+    color: white;
+    background-color: #aaaaaa;
+}
+#body{
+    text-align: center;
+    line-height: 100vh;
 }
