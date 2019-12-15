@@ -1,3 +1,7 @@
 body{
     background-color: #fafafa;
 }
+#body{
+    text-align: center;
+    line-height: 100vh;
+}
