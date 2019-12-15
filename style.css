@@ -1,3 +1,11 @@
 body{
     background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+    padding: 15px;
 }
